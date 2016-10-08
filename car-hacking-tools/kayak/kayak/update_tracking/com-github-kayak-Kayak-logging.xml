@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.Kayak.logging">
+    <module_version install_time="1396628614054" last="true" origin="installer" specification_version="1.0">
+        <file crc="3217702175" name="config/Modules/com-github-kayak-Kayak-logging.xml"/>
+        <file crc="1372629903" name="modules/com-github-kayak-Kayak-logging.jar"/>
+        <file crc="1204277145" name="modules/ext/com.github.kayak.Kayak-logging/org-tango-project/tango-icon-theme.jar"/>
+    </module_version>
+</module>

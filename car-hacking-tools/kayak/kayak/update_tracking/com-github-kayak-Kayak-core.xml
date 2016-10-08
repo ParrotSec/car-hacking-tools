@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.Kayak.core">
+    <module_version install_time="1396628613545" last="true" origin="installer" specification_version="1.0">
+        <file crc="855841020" name="config/Modules/com-github-kayak-Kayak-core.xml"/>
+        <file crc="3073641500" name="modules/com-github-kayak-Kayak-core.jar"/>
+    </module_version>
+</module>

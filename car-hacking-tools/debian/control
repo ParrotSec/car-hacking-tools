@@ -1,0 +1,17 @@
+Source: kayak
+Section: parrot
+Priority: optional
+Maintainer: Parrot Team <parrot-devel@lists.parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.parrotsec.org/
+
+Package: kayak
+Architecture: all
+Priority: optional
+Depends: openjdk-8-jre
+Suggests: vidalia
+Description: Kayak car hacking tool
+  Kayak is an open source CAN bus diagnosis tool based on SocketCANAnonymizaton toolkit for Parrot Security OS

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.branding">
+    <module_version install_time="1396628612562" last="true" origin="installer" specification_version="1.0">
+        <file crc="1711286435" name="config/Modules/com-github-kayak-branding.xml"/>
+        <file crc="1585549366" name="core/locale/core_kayak.jar"/>
+        <file crc="1557501092" name="modules/com-github-kayak-branding.jar"/>
+        <file crc="1204179561" name="modules/locale/org-netbeans-core-windows_kayak.jar"/>
+        <file crc="3471619505" name="modules/locale/org-netbeans-core_kayak.jar"/>
+    </module_version>
+</module>

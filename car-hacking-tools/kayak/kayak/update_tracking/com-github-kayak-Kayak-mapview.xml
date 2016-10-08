@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.Kayak.mapview">
+    <module_version install_time="1396628614227" last="true" origin="installer" specification_version="1.0">
+        <file crc="1649669677" name="config/Modules/com-github-kayak-Kayak-mapview.xml"/>
+        <file crc="1217309856" name="modules/com-github-kayak-Kayak-mapview.jar"/>
+        <file crc="2805058571" name="modules/ext/com.github.kayak.Kayak-mapview/avalon-framework/avalon-framework.jar"/>
+        <file crc="350195758" name="modules/ext/com.github.kayak.Kayak-mapview/commons-beanutils/commons-beanutils.jar"/>
+        <file crc="1856893722" name="modules/ext/com.github.kayak.Kayak-mapview/commons-codec/commons-codec.jar"/>
+        <file crc="259077428" name="modules/ext/com.github.kayak.Kayak-mapview/commons-httpclient/commons-httpclient.jar"/>
+        <file crc="2791441963" name="modules/ext/com.github.kayak.Kayak-mapview/commons-lang/commons-lang.jar"/>
+        <file crc="3997199286" name="modules/ext/com.github.kayak.Kayak-mapview/commons-logging/commons-logging.jar"/>
+        <file crc="2050839146" name="modules/ext/com.github.kayak.Kayak-mapview/dom4j/dom4j.jar"/>
+        <file crc="986723382" name="modules/ext/com.github.kayak.Kayak-mapview/javax-servlet/servlet-api.jar"/>
+        <file crc="2188704219" name="modules/ext/com.github.kayak.Kayak-mapview/jaxen/jaxen.jar"/>
+        <file crc="3727094234" name="modules/ext/com.github.kayak.Kayak-mapview/jdom/jdom.jar"/>
+        <file crc="3953980981" name="modules/ext/com.github.kayak.Kayak-mapview/jtidy/jtidy.jar"/>
+        <file crc="2354532136" name="modules/ext/com.github.kayak.Kayak-mapview/log4j/log4j.jar"/>
+        <file crc="3819928706" name="modules/ext/com.github.kayak.Kayak-mapview/logkit/logkit.jar"/>
+        <file crc="3106837824" name="modules/ext/com.github.kayak.Kayak-mapview/net-sf-ezmorph/ezmorph.jar"/>
+        <file crc="2982328981" name="modules/ext/com.github.kayak.Kayak-mapview/net-sf-json-lib/json-lib.jar"/>
+        <file crc="2548271629" name="modules/ext/com.github.kayak.Kayak-mapview/org-swinglabs/swingx-core.jar"/>
+        <file crc="1888608695" name="modules/ext/com.github.kayak.Kayak-mapview/org-swinglabs/swingx-ws.jar"/>
+        <file crc="1204277145" name="modules/ext/com.github.kayak.Kayak-mapview/org-tango-project/tango-icon-theme.jar"/>
+        <file crc="353951341" name="modules/ext/com.github.kayak.Kayak-mapview/rome/rome.jar"/>
+        <file crc="1320747377" name="modules/ext/com.github.kayak.Kayak-mapview/xalan/xalan.jar"/>
+        <file crc="905581081" name="modules/ext/com.github.kayak.Kayak-mapview/xerces/xercesImpl.jar"/>
+        <file crc="1221800559" name="modules/ext/com.github.kayak.Kayak-mapview/xerces/xmlParserAPIs.jar"/>
+        <file crc="2706825387" name="modules/ext/com.github.kayak.Kayak-mapview/xml-apis/xml-apis.jar"/>
+        <file crc="2223464770" name="modules/ext/com.github.kayak.Kayak-mapview/xom/xom.jar"/>
+    </module_version>
+</module>

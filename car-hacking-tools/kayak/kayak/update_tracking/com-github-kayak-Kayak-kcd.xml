@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.Kayak.kcd">
+    <module_version install_time="1396628614093" last="true" origin="installer" specification_version="1.0">
+        <file crc="1109524806" name="config/Modules/com-github-kayak-Kayak-kcd.xml"/>
+        <file crc="1224765735" name="modules/com-github-kayak-Kayak-kcd.jar"/>
+        <file crc="984909869" name="modules/ext/com.github.kayak.Kayak-kcd/javax-activation/activation.jar"/>
+        <file crc="650881088" name="modules/ext/com.github.kayak.Kayak-kcd/javax-xml-bind/jaxb-api.jar"/>
+        <file crc="1775435017" name="modules/ext/com.github.kayak.Kayak-kcd/javax-xml-stream/stax-api.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.core.kit">
+    <module_version install_time="1396628605515" last="true" origin="installer" specification_version="1.25.1">
+        <file crc="2760253963" name="VERSION.txt"/>
+        <file crc="2391224559" name="config/Modules/org-netbeans-modules-core-kit.xml"/>
+        <file crc="290549695" name="modules/locale/org-netbeans-modules-core-kit_ja.jar"/>
+        <file crc="3543451065" name="modules/locale/org-netbeans-modules-core-kit_pt_BR.jar"/>
+        <file crc="3756970536" name="modules/locale/org-netbeans-modules-core-kit_ru.jar"/>
+        <file crc="72472449" name="modules/locale/org-netbeans-modules-core-kit_zh_CN.jar"/>
+        <file crc="2075761609" name="modules/org-netbeans-modules-core-kit.jar"/>
+    </module_version>
+</module>

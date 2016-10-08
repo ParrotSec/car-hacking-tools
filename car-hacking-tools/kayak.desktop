@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kayak - Car hacking tool
+Comment=Kayak is an open source CAN bus diagnosis tool based on SocketCAN
+Exec=menuexecg "/usr/share/kayak/bin/kayak"
+Icon=/usr/share/kayak/kayak.png
+Categories=Application
+Version=1.0
+Type=Application
+Terminal=0
+Categories=top10;08-exploitation-tools;07-reverseengineer;09-sniffing-spoofing;08-exploitation-tools
+

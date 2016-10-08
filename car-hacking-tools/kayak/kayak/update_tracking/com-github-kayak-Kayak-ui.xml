@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.github.kayak.Kayak.ui">
+    <module_version install_time="1396628612885" last="true" origin="installer" specification_version="1.0">
+        <file crc="1543063795" name="config/Modules/com-github-kayak-Kayak-ui.xml"/>
+        <file crc="2124345890" name="modules/com-github-kayak-Kayak-ui.jar"/>
+        <file crc="4284377684" name="modules/ext/com.github.kayak.Kayak-ui/com-github-insubstantial/trident.jar"/>
+        <file crc="2527584626" name="modules/ext/com.github.kayak.Kayak-ui/eu-hansolo/SteelSeries.jar"/>
+        <file crc="1204277145" name="modules/ext/com.github.kayak.Kayak-ui/org-tango-project/tango-icon-theme.jar"/>
+    </module_version>
+</module>

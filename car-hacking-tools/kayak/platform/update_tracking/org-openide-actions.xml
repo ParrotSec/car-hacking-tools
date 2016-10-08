@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.actions">
+    <module_version install_time="1396628613275" last="true" origin="installer" specification_version="6.34.1">
+        <file crc="3556488737" name="config/Modules/org-openide-actions.xml"/>
+        <file crc="3583885939" name="modules/locale/org-openide-actions_ja.jar"/>
+        <file crc="2954307727" name="modules/locale/org-openide-actions_pt_BR.jar"/>
+        <file crc="3187938529" name="modules/locale/org-openide-actions_ru.jar"/>
+        <file crc="3262303947" name="modules/locale/org-openide-actions_zh_CN.jar"/>
+        <file crc="4007112299" name="modules/org-openide-actions.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+kayak (2014.03.10.1706+parrot0) testing; urgency=medium
+
+  * Debianize source code and import new upstream releases
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sat, 08 Oct 2016 16:02:32 +0200
+
